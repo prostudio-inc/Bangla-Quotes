@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="UseCompoundDrawables">
+
+    <ImageView
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="@color/colorPrimary"
+        android:src="@drawable/account_box_black"
+        android:layout_width="50dp"
+        android:layout_height="70dp"
+        android:contentDescription="@string/todo"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp">
+    </ImageView>
+
+    <TextView
+        android:drawableRight="@drawable/arrow_icon"
+        android:gravity="fill"
+        android:id="@+id/Desgin_Text"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:textColor="#FFFFFF"
+        android:text="@string/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/colorPrimary"
+        android:drawableEnd="@drawable/arrow_icon">
+
+    </TextView>
+
+</LinearLayout>

@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">উক্তি সমগ্র</string>
+    <string name="todo">TODO</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="more_apps">More apps</string>
+    <string name="about">About</string>
+    <string name="contact_info">Contact Info </string>
+    <string name="contact_email">Email: prostudio.inc.contact@gmail.com</string>
+    <string name="version_1_0_0">Version: 1.0.0</string>
+
+    <string-array name="category_list">
+
+        1
+        <item>হুমায়ূন আহমেদ</item>
+        2
+        <item>এপিজে আব্দুল কালাম </item>
+        3
+        <item>নেলসন ম্যান্ডেলা</item>
+        4
+        <item>কাজী নজরুল ইসলাম</item>
+        5
+        <item>এরিস্টটল</item>
+        6
+        <item>ডঃ মুহাম্মদ ইউনুস</item>
+        7
+        <item>জীবনানন্দ দাশ</item>
+        8
+        <item>শেখ সাদী</item>
+        9
+        <item>শেখ মুজিবুর রহমান</item>
+        10
+        <item>শেক্সপিয়ার</item>
+        11
+        <item>মহাত্মা গান্ধী</item>
+        12
+        <item>অ্যাডলফ হিটলার</item>
+        13
+        <item>হুমায়ুন আজাদ</item>
+        14
+        <item>রবীন্দ্রনাথ ঠাকুর</item>
+        15
+        <item>আইনস্টাইন</item>
+        16
+        <item>বিল গেটস</item>
+        17
+        <item>মার্ক জাকারবার্গ</item>
+        18
+        <item>জ্যাক মা</item>
+        19
+        <item>স্টিভ জবস</item>
+        20
+        <item>সুভাষ চন্দ্র বোস</item>
+        21
+        <item>শাহরুখ খান</item>
+        22
+        <item>সক্রেটিস</item>
+        23
+        <item>প্লেটো</item>
+        24
+        <item>চার্লি চ্যাপলিন</item>
+        25
+        <item>লালন</item>
+        27
+        <item>মার্টিন লুথার কিং</item>
+        28
+        <item>ওয়ারেন বাফেট</item>
+        29
+        <item>এর্নেস্তো চে গুয়েভারা</item>
+        30
+        <item>ডেল কার্নেগী</item>
+        31
+        <item>মুহাম্মদ আলী</item>
+        35
+        <item>আব্দুল্লাহ আবু সায়ীদ</item>
+        33
+        <item>খালেদা জিয়া</item>
+        34
+        <item>শেখ হাসিনা</item>
+        32
+        <item>মাশরাফি বিন মর্তুজা</item>
+        42
+        <item>হযরত মোহাম্মদ (সঃ)</item>
+        37
+        <item>গৌতম বুদ্ধ</item>
+        38
+        <item>স্বামী বিবেকানন্দ</item>
+        40
+        <item>হযরত আলী (রাঃ)</item>
+        41
+        <item>লোকমান হাকিম (রাঃ)</item>
+        39
+        <item>হেলাল হাফিজ</item>
+        36
+        <item>চাণক্য নীতি</item>
+        26
+        <item>খনার বচন </item>
+        43
+        <item>প্রবাদ বাক্য</item>
+        44
+        <item>জনপ্রিয় উক্তি সমূহ</item>
+        <item>More Coming Soon…</item>
+
+
+
+
+    </string-array>
+
+
+
+</resources>

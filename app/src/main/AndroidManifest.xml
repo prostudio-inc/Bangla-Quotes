@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.prostudio.inc.banglaquotes">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/app_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".About"/>
+        <activity
+            android:name=".Q44"
+            android:label="জনপ্রিয় উক্তি সমূহ" />
+        <activity
+            android:name=".Q43"
+            android:label="প্রবাদ বাক্য" />
+        <activity
+            android:name=".Q42"
+            android:label="হযরত মোহাম্মদ (সঃ)" />
+        <activity
+            android:name=".Q41"
+            android:label="লোকমান হাকিম (রাঃ)" />
+        <activity
+            android:name=".Q40"
+            android:label="হযরত আলী (রাঃ)" />
+        <activity
+            android:name=".Q39"
+            android:label="হেলাল হাফিজ" />
+        <activity
+            android:name=".Q38"
+            android:label="স্বামী বিবেকানন্দ" />
+        <activity
+            android:name=".Q37"
+            android:label="গৌতম বুদ্ধ" />
+        <activity
+            android:name=".Q36"
+            android:label="চাণক্য নীতি" />
+        <activity
+            android:name=".Q35"
+            android:label="আব্দুল্লাহ আবু সায়ীদ" />
+        <activity
+            android:name=".Q34"
+            android:label="শেখ হাসিনা" />
+        <activity
+            android:name=".Q33"
+            android:label="খালেদা জিয়া" />
+        <activity
+            android:name=".Q32"
+            android:label="মাশরাফি বিন মর্তুজা" />
+        <activity
+            android:name=".Q31"
+            android:label="মুহাম্মদ আলী" />
+        <activity
+            android:name=".Q30"
+            android:label="ডেল কার্নেগী" />
+        <activity
+            android:name=".Q29"
+            android:label="এর্নেস্তো চে গুয়েভারা" />
+        <activity
+            android:name=".Q28"
+            android:label="ওয়ারেন বাফেট" />
+        <activity
+            android:name=".Q27"
+            android:label="মার্টিন লুথার কিং" />
+        <activity
+            android:name=".Q26"
+            android:label="খনার বচন" />
+        <activity
+            android:name=".Q25"
+            android:label="লালন" />
+        <activity
+            android:name=".Q24"
+            android:label="চার্লি চ্যাপলিন" />
+        <activity
+            android:name=".Q23"
+            android:label="প্লেটো" />
+        <activity
+            android:name=".Q22"
+            android:label="সক্রেটিস" />
+        <activity
+            android:name=".Q21"
+            android:label="শাহরুখ খান" />
+        <activity
+            android:name=".Q20"
+            android:label="সুভাষ চন্দ্র বোস" />
+        <activity
+            android:name=".Q19"
+            android:label="স্টিভ জবস" />
+        <activity
+            android:name=".Q18"
+            android:label="জ্যাক মা" />
+        <activity
+            android:name=".Q17"
+            android:label="মার্ক জাকারবার্গ" />
+        <activity
+            android:name=".Q16"
+            android:label="বিল গেটস" />
+        <activity
+            android:name=".Q15"
+            android:label="আইনস্টাইন" />
+        <activity
+            android:name=".Q14"
+            android:label="রবীন্দ্রনাথ ঠাকুর" />
+        <activity
+            android:name=".Q13"
+            android:label="হুমায়ুন আজাদ" />
+        <activity
+            android:name=".Q12"
+            android:label="অ্যাডলফ হিটলার" />
+        <activity
+            android:name=".Q11"
+            android:label="মহাত্মা গান্ধী" />
+        <activity
+            android:name=".Q10"
+            android:label="শেক্সপিয়ার" />
+        <activity
+            android:name=".Q9"
+            android:label="শেখ মুজিবুর রহমান" />
+        <activity
+            android:name=".Q8"
+            android:label="শেখ সাদী" />
+        <activity
+            android:name=".Q7"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".Q6"
+            android:label="ডঃ মুহাম্মদ ইউনুস" />
+        <activity
+            android:name=".Q5"
+            android:label="এরিস্টটল" />
+        <activity
+            android:name=".Q4"
+            android:label="কাজী নজরুল ইসলাম" />
+        <activity
+            android:name=".Q3"
+            android:label="নেলসন ম্যান্ডেলা" />
+        <activity
+            android:name=".Q2"
+            android:label="এপিজে আব্দুল কালাম" />
+        <activity
+            android:name=".Q1"
+            android:label="হুমায়ূন আহমেদ" />
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/splash_style">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Recyler_design" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3630202220559028~2783032397" />
+
+    </application>
+
+</manifest>
